@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crypto-trail-369705",
+  "private_key_id": "f2d53c553f01f88970fa6daed6cac4c1afbdc65c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCm+7G820Va2Od4\n9flI3lR0cRqdye16DpBo7g1PyMVGqACxU9OjZG+MEYnFbhQNjtMX0JdiCVNOzP34\ne3LD3s5TGl60GgKEGnzmN1MjwN677NQLDQU4BoJS8Bcct1DHwj8NmzVaHyaSqnvI\nt21ZcBmyXHfYgq98cDMz8HN0CK4c61IDe5u6DHsDwWd9mMHxZ1HvUGTieBA5fUiE\nfFJK+cgzrYjCtTzvtraNUQVIcWTc4hYjg46edccTlm8BjHToXo5HoWEtmGJeTilf\nD56PNuSm/cUBLxqzKWxnCVGIwc19vk1w9cWnqk+kUKERxc/OfsthWPVyOdiahjlk\ngzejgeJpAgMBAAECggEAFuaV7ay0ykzNEg3J7nBvbLjGSbWT2BV/QKTFNpf2VkZc\nMfWpJNN1aORO3MDIB0P7N1zoJg3ZWwlKG3Xyu2InMcaADnsytSNc1cXopRKieWt1\neT6D5Lcf0HgU819AuOSu+RK8MmvrQloXN+PQH1/8ZjXASfVCU/KfUxQ7AULffh+e\nv9WNdIOrEE5T5mvMSg6yrIKb0zWJVUgwOa2YrQ3JRthVpeTAntLy3vAgKHa3dvT7\n8vI9PKY3y0WbwxNihAcB+p/EGCr7rJ4MR55U0/rYL78XWuWYJVZXUab04ud315ct\ny+zkkpYzKt8JPss6oz1xI/dD44aP8xVeBl9mB/WnMQKBgQDnpWj0DuN7ocoCcoPM\ntgfVtUlWVH3LRGWm2fFTfznoanL4M5tTYaHSsOu4FCrCHDKJyMpNH/h9c7NCn933\nnvNbJzMw55w7CfTRa6+JwMGTB1jkYBWFjcPAvU1025EIA8YAHKWIAqtZ5K7NUNiJ\numViC+5WbUAkys04GJ0A1v2+3wKBgQC4ie1c/Fwp/jz/92FxBUkFMVUW0ddHCrIT\nxUO44ar1aipfZE8o6Xcpwo/v4QZ+0TFYZ4kO8OPs9REdUsf23dNjYupojnh0lc88\nN+L5SJmoXT5dyAlujensmmcGqeBfbBkwMFlXSyPv6Fsv/Ar392L/y2+jYhmeHi7G\n26NTadyvtwKBgQCnLq8/rVsqyEqmV4WeAiZHa85hGxuqz1NaB2NvcpwVjHYrgftx\nQz5qdDu7n/p4G6ex35N59EAAMrfGtuCZLUPPnswIWLBdv8LMPh7zmYVbmurh8CK4\nP+duvHEhjLHwieCmBgbF0b9fYndyQQ324Or4x0mdYL3xj9hqywDNMVzzGwKBgAmx\n3VF8RI9ENwovgeQBJhPqwpCfV5L44eAeBe/Jk0SvXiiCyZHZqhP8j7lHdiLldJUz\nY0TwrNi/CzYiKjUy9C8NfEkf6v4c/LUqLndwM/pfY65jmvM+62ItvmngNNRuhmg8\nsgTfArVQ3LGJqT3btky/8E6CEdx3s3dpBIyWTCzDAoGBAN5Uu5FSvFAYcN+3eKjA\nRnEu63fqLHWC17TSqypejW5NdRMyreyjy09NKZHw/eCv9y1Ob+9TV3TCp1vAK/gH\nfFhhFr9qK+EXucYRd2HziJldo9Frgki2lFLggn7QOJjR/naUBLrdnM5/VHI40h9D\n8Y5jFKIDE9fuqvtp910j0Bea\n-----END PRIVATE KEY-----\n",
+  "client_email": "df8new@crypto-trail-369705.iam.gserviceaccount.com",
+  "client_id": "107274613027288539433",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/df8new%40crypto-trail-369705.iam.gserviceaccount.com"
+}
